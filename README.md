@@ -1,6 +1,8 @@
 # Tab Namer
 Chrome extension to change tab names.
 
+Helps to organize your workflow.
+
 ### To open popup:
 
 Ctrl+Shift+Y (Windows)
