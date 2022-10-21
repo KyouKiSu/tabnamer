@@ -1,7 +1,7 @@
 # Tab Namer
 Chrome extension to change tab names.
 
-Helps to organize your workflow.
+Helps to organize workflow.
 
 ### To open popup:
 
